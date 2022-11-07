@@ -9,7 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioRovetta15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRovetta15&layout=compact&langs_count=7&theme=tokyonight"/>
 </div> 
-<div>
 <p>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
