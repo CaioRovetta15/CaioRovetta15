@@ -20,6 +20,10 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
  <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/15/Robot_Operating_System_logo.svg"></code>
  <code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/5/5e/Gazebo_logo_without_text.svg"></code>
+ <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Dart-logo-icon.svg"></code>
+ <code><img height="20" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png"></code>
+
+
 
 </p> 
   
