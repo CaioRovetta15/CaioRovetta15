@@ -22,13 +22,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/15/Robot_Operating_System_logo.svg"></code>
-<code><img height="20" src="[https://upload.wikimedia.org/wikipedia/commons/1/15/Robot_Operating_System_logo.svg](https://avatars.githubusercontent.com/u/1743799?s=200&v=4)"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/5/5e/Gazebo_logo_without_text.svg"></code>
 
 
 </p> 
-## 
   
 <div>
-  
+ ## 
+ 
   ![Snake animation](https://github.com/CaioRovetta15/CaioRovetta15/blob/output/github-contribution-grid-snake.svg)
 </div>
