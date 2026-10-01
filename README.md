@@ -8,7 +8,7 @@
 <p>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
-<code><img height="20" src="https://icongr.am/devicon/java-original.svg?size=148&color=currentColor"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"></code>
@@ -18,7 +18,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
  <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/15/Robot_Operating_System_logo.svg"></code>
- <code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/5/5e/Gazebo_logo_without_text.svg"></code>
+ <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gazebo/gazebo-original.svg"></code>
  <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Dart-logo-icon.svg"></code>
  <code><img height="20" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png"></code>
 
@@ -27,4 +27,4 @@
 </p> 
   
 ##
-![Snake animation](https://github.com/CaioRovetta15/CaioRovetta15/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/CaioRovetta15/CaioRovetta15/output/github-contribution-grid-snake.svg)
